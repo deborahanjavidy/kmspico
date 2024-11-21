@@ -1,0 +1,78 @@
+09:05:35:356 2024.11.21 KMS GUI ELDI 37.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Windows Detected: Windows 10 Home : Core : 6.3 : 22631
+
+09:05:35:368 Loading SECOH-QAD...
+09:05:35:372 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+09:05:35:372 Using host Forward: 10.210.72.184:1688
+09:05:35:372 Using host Local: 127.202.130.233:1688
+09:05:35:372 Using method: SECOH-QAD
+09:05:35:378 Time Start: 21/11/2024 09:05:35
+09:05:35:380 Checking Internet Connection...
+09:05:35:480 Internet Connection Detected
+09:05:35:485 Synchronizing Time...
+09:05:35:509 Windows Detected: Windows 10 Home : Core : 6.3 : 22631
+09:05:35:511 Using host Forward: 10.210.72.184:1688
+09:05:35:511 Using host Local: 127.202.130.233:1688
+09:05:35:511 Using method: SECOH-QAD
+09:05:35:530 Opening Firewall Port...
+09:05:35:605 Opening Firewall App...
+09:05:35:733 KMSEmulator Port: 1688
+09:05:35:734 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+09:05:35:759 KMSEmulator running port: 1688
+09:05:35:816 Time synchronized
+09:05:35:894 Loading OEM Key Dumper...
+09:05:35:894 Key found on MSDM: -HFTF8
+09:05:35:901 Office 2013 Skipped
+09:05:35:901 Office 2010 Skipped
+09:05:35:918 Office 2016 Found: C:\Program Files\Microsoft Office\root\Office16
+09:05:36:765 Found Office 2016 Products: 3
+09:05:36:767 Name: Office 16, Office16OneNoteFreeR_Bypass edition
+Description: Office 16, RETAIL(Free) channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: 7CFGB
+GenuineStatus: 0
+
+09:05:36:768 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 259181
+LicenseStatus: 1
+PartialProductKey: WFG99
+GenuineStatus: 0
+
+09:05:36:777 Installing Key: -H8Q99
+09:05:36:794 Name: Office 16, Office16O365HomePremR_Grace edition
+Description: Office 16, RETAIL(Grace) channel
+GracePeriodRemaining: 0
+LicenseStatus: 5
+PartialProductKey: KHGM9
+GenuineStatus: 1
+
+09:05:36:797 Error: Folder Not Found: C:\Logiciels\KMSPico-SetupFile\KMSpico\cert\kmscert2016\NonSupported cant convert to VL
+09:05:37:529 InstallProductKey -H8Q99 0
+09:05:37:532 Error: La référence d'objet n'est pas définie à une instance d'un objet. ᜀ
+09:05:37:532 Office 2016 Skipped
+09:05:37:685 RefreshLicenseStatus 0
+09:05:38:828 Found Windows Products: 1
+09:05:38:828 Name: Windows(R), Core edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 64781
+LicenseStatus: 1
+PartialProductKey: H8Q99
+GenuineStatus: 0
+
+09:05:38:864 DisableKeyManagementServiceHostCaching 0
+09:05:38:864 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+09:05:38:864 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+09:05:38:896 DisableKeyManagementServiceHostCaching 0
+09:05:38:896 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+09:05:38:896 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+09:05:38:923 DisableKeyManagementServiceHostCaching 0
+09:05:38:923 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+09:05:38:923 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+09:05:38:949 DisableKeyManagementServiceHostCaching 0
+09:05:38:950 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+09:05:38:950 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort

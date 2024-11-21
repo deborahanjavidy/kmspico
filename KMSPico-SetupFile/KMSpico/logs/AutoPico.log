@@ -1,0 +1,89 @@
+08:46:36:184 2024.11.21 AutoPico 16.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Time Start: 21/11/2024 08:46:36
+
+08:46:36:184 Checking Internet Connection...
+08:46:36:220 Windows Detected: Windows 10 Home : Core : 6.3 : 22631
+08:46:36:237 Loading SECOH-QAD...
+08:46:36:238 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+08:46:36:238 Using host Forward: 10.189.224.130:1688
+08:46:36:239 Using host Local: 127.63.52.103:1688
+08:46:36:239 Using method: SECOH-QAD
+08:46:36:243 Opening Firewall Port...
+08:46:36:298 Internet Connection Detected
+08:46:36:300 Synchronizing Time...
+08:46:36:339 Opening Firewall App...
+08:46:36:496 KMSEmulator Port: 1688
+08:46:36:497 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+08:46:36:506 KMSEmulator running port: 1688
+08:46:36:506 Loading OEM Key Dumper...
+08:46:36:506 Office 2016 Found: C:\Program Files\Microsoft Office\root\Office16
+08:46:36:512 Office 2010 Skipped
+08:46:36:512 Key found on MSDM: -HFTF8
+08:46:36:512 Office 2013 Skipped
+08:46:36:786 Time synchronized
+08:46:36:874 Found Office 2016 Products: 3
+08:46:36:875 Name: Office 16, Office16OneNoteFreeR_Bypass edition
+Description: Office 16, RETAIL(Free) channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: 7CFGB
+GenuineStatus: 0
+
+08:46:36:876 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 259200
+LicenseStatus: 1
+PartialProductKey: WFG99
+GenuineStatus: 0
+
+08:46:36:876 Name: Office 16, Office16O365HomePremR_Grace edition
+Description: Office 16, RETAIL(Grace) channel
+GracePeriodRemaining: 0
+LicenseStatus: 5
+PartialProductKey: KHGM9
+GenuineStatus: 1
+
+08:46:36:879 Error: Folder Not Found: C:\Logiciels\KMSPico-SetupFile\KMSpico\cert\kmscert2016\NonSupported cant convert to VL
+08:46:37:030 Error: La référence d'objet n'est pas définie à une instance d'un objet. ᜀ
+08:46:37:030 Office 2016 Skipped
+08:46:37:418 Found Windows Products: 1
+08:46:37:418 Name: Windows(R), Core edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 64800
+LicenseStatus: 1
+PartialProductKey: H8Q99
+GenuineStatus: 0
+
+08:46:37:439 DisableKeyManagementServiceHostCaching 0
+08:46:37:440 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+08:46:37:440 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+08:46:37:441 Activating Windows
+08:46:37:458 DisableKeyManagementServiceHostCaching 0
+08:46:37:458 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+08:46:37:458 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+08:46:37:475 DisableKeyManagementServiceHostCaching 0
+08:46:37:475 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+08:46:37:475 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+08:46:37:520 SetKeyManagementServiceMachine: 0: 10.189.224.130
+08:46:37:530 SetKeyManagementServicePort: 0: 1688
+08:46:37:844 Connection accepted from [::ffff:127.0.0.1]:50385
+08:46:37:863 Received request: v6, AppID: 55c92734-d682-4d71-983e-d6ec3f16059f, Machine: Medion_D
+08:46:37:873 Sending response: v6, PID: 05426-00206-330-080148-03-1036-9200.0000-3382017, HwID: 1A58E18EFE82C6E7
+08:46:37:875 Connection closed
+08:46:38:430 Windows(R), Core edition Activated 0
+08:46:38:432 Set Registry : HKEY_USERS\S-1-5-20\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f\58e97c99-f377-4ef1-81d5-4ad5522b5fd8:DiscoveredKeyManagementServiceIpAddress
+08:46:38:432 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+08:46:38:432 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+08:46:38:441 ClearKeyManagementServiceMachine 0
+08:46:38:448 ClearKeyManagementServicePort 0
+08:46:38:449 Closing Firewall Port...
+08:46:38:509 Closing Firewall App...
+08:46:38:584 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+08:46:38:586 Unloading SECOH-QAD...
+08:46:38:587 Client listener shut down
+08:46:38:588 Del Registry : SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe:
+08:46:38:595 Killing: SECOH-QAD
+08:46:38:598 Time Finish: 21/11/2024 08:46:38
